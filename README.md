@@ -20,7 +20,8 @@
 
 ### <p align="center"><b>Github Commits</b></p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SageSG&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SageSG&hide_border=true&layout=compact&langs_count=10&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SageSG&hide_border=true&layout=compact&langs_count=10&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SageSG&show_icons=true&hide_border=true&theme=dark&count_private=true&hide=stars,issues)
 
 
 ### Reach Me
