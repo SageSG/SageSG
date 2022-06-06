@@ -1,5 +1,5 @@
 
-## <p align="center"> Nice to meet you, I'm Henry 🧑‍💻 </p> <br/> <p align="center"> <img align="center" width="100" height="100" src="https://picsum.photos/100/100"> </p> <br/> <p align="right"> I'm a Fullstack Developer </p>
+## <p align="center"> Nice to meet you, I'm Henry 🧑‍💻 </p> <br/> <p align="center"> <img align="center" width="100" height="100" src="https://picsum.photos/100/100"> </p> <br/> <p align="right"> ✨ I'm a Fullstack Developer </p>
 ##### <p align="center"> #MachineLearning #FullStackEngineer #DataVisualisation </p>
 ### Education:
 #### Bachelor of Engineering with Honours in ICT (Software Engineering)
@@ -19,13 +19,23 @@
 ```
 
 Experienced with: Charts and Data Visualisation
+Motto: Always eager to learn
+
+Currently pursuing my degree & part-time internship @Challenger Technologies 
+
+Attempt | #1 |
+--- | --- |
+Seconds | 301 |
 
 Interest:
-Crackin
+Coding, Karaoke, Mahjong, Cycling, Chess
+
+
 
 Special Thanks to: 
-My mentor - Thu Ya
-The People that believed in me
+My mentor - Thu Ya <br/>
+Love ones <br/>
+Everyone that believed
 
 <!--
 **SageSG/SageSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
