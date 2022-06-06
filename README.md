@@ -20,7 +20,8 @@
 
 ### <p align="center"><b>Github Commits</b></p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SageSG&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SageSG&repo=github-readme-stats)](https://github.com/SageSG/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SageSG&hide_border=true&layout=compact&langs_count=10&theme=tokyonight)
+
 
 ### Reach Me
 [![telegram](./telegram.png)][1]
