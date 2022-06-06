@@ -1,38 +1,48 @@
 
-## <p align="center"> Nice to meet you, I'm Henry 🧑‍💻 </p> <br/> <p align="center"> <img align="center" width="100" height="100" src="https://picsum.photos/100/100"> </p> <br/> <p align="right"> ✨ I'm a Fullstack Developer </p>
+## <p> Nice to meet you, I'm Henry 🧑‍💻 </p> <p align="center"> <img align="center" width="50%" src="./coder.jpg"> </p> <p align="right"> ✨ I'm a Fullstack Developer </p>
+
+## <p align="center"> <b>[<i>My Portfolio</i>](http://google.com.sg)</b> </p>
+
+[1]: http://www.github.com/your_contact_info
+[2]: https://www.linkedin.com/in/your_contact_info
+[3]: https://www.facebook.com/your_contact_info
+
 ##### <p align="center"> #MachineLearning #FullStackEngineer #DataVisualisation </p>
-### Education:
-#### Bachelor of Engineering with Honours in ICT (Software Engineering)
-### <p align="center"> Education: Bachelor of Engineering with Honours in ICT (Software Engineering) <br/> Currently Living-In: Singapore  </p>
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=hello)
+#### <p> Location: Singapore <br/><br/> Education: Singapore Institute of Technology <br/> Bachelor of Engineering with Honours in ICT (Software Engineering) </p>
  
-### Started coding in 2016
-#### Notable Project
+### <p>
+| | Interests  |
+| --- | --- |
+| #1 | Machine Learning |
+| #2 | Data Visualisation |
+| #3 | Mobile Development |
+| #4 | Green Initiatives |
+</p>
 
-```diff
+### <b> Milestones </b>
+#### 2014 
+<!-- ```diff
 - text in red
 + text in green
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
-```
+``` -->
 
 Experienced with: Charts and Data Visualisation
-Motto: Always eager to learn
+### Motto: Always eager to learn
 
 Currently pursuing my degree & part-time internship @Challenger Technologies 
 
-Attempt | #1 |
---- | --- |
-Seconds | 301 |
+
 
 Interest:
-Coding, Karaoke, Mahjong, Cycling, Chess
+Coding, Karaoke, Mahjong, Cycling, Community Service
 
 
 
-Special Thanks to: 
+#### Special Thanks to: 
 My mentor - Thu Ya <br/>
 Love ones <br/>
 Everyone that believed
