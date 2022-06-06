@@ -19,9 +19,9 @@
 #### <p align="center"> Automation Scripts {Web Scrapping, VBA} <br/> Web Development {PHP, JS, HTML, CSS} <br/> Framework {Vue, Angular, React, Flask} <br/> Database Management {MySQL, Postgres, MariaDB, SQLlite} <br/> Mobile Development {Ionic, Kotlin} <br/> Embedded Systems  {C, Arduino, TinyCircuits} <br/> Object Oriented Programming {C++, Java, Python} </p>
 
 ### <p align="center"><b>Github Commits</b></p>
-[x]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SageSG&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
 
-#### Reach Me
+### Reach Me
 [![telegram](./telegram.png)][1]
 [![whatsapp](./whatsapp.png)][2]
 [![linkedin](./linkedin.png)][3]
@@ -33,7 +33,7 @@
 [3]: https://www.facebook.com/your_contact_info
 [4]: https://www.facebook.com/your_contact_info
 
-### Special Thanks: 
+#### Special Thanks: 
 ```diff
 @@ Love ones @@
 @@ Thu Ya (Mentor) @@
