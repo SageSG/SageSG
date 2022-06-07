@@ -1,5 +1,5 @@
 
-## <p> Nice to meet you, I'm Henry 👋 </p> <p align="center"> <img align="center" width="50%" src="./coder.jpg"> </p> <p align="right">  I'm a Fullstack Developer 🧑‍💻</p>
+## <p> Nice to meet you, I'm Henry 👋 </p> <p align="center"> <img align="center" width="40%" src="./coder.jpg"> </p> <p align="right">  I'm a Fullstack Developer 🧑‍💻</p>
 
 ## <p align="center"> <b>✨ [<i>My Portfolio</i>](https://henryyip.netlify.app) ✨</b> </p>
 <!-- ### <p align="center"> ~ Motto: Always eager to learn ~ </p> -->
@@ -20,13 +20,7 @@
 
 ### <p align="center"><b>Github Commits</b></p>
 <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=SageSG&theme=black-ice&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SageSG&show_icons=true&hide_border=true&theme=dark&count_private=true&hide=stars,issues" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SageSG&hide_border=true&layout=compact&langs_count=10&theme=dark" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=SageSG&theme=black-ice&hide_border=true" /><br/> <img src="https://github-readme-stats.vercel.app/api?username=SageSG&show_icons=true&hide_border=true&theme=dark&count_private=true&hide=stars,issues" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SageSG&hide_border=true&layout=compact&langs_count=10&theme=dark" />
 </p>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SageSG&hide_border=true&layout=compact&langs_count=10&theme=dark) -->
@@ -35,6 +29,7 @@
 
 
 ### Reach Me
+##### click on the icons
 Telegram  |  Whatsapp | Linkedin | Discord
 :---:|:---:|:---:|:---:
 [![telegram](./telegram.png)][1]  |  [![whatsapp](./whatsapp.png)][2] | [![linkedin](./linkedin.png)][3] | [![discord](./discord.png)][4]
