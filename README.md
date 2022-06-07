@@ -19,18 +19,18 @@
 #### <p align="center"> Automation Scripts {Web Scrapping, VBA} <br/> Web Development {PHP, JS, HTML, CSS} <br/> Framework {Vue, Angular, React, Flask} <br/> Database Management {MySQL, Postgres, MariaDB, SQLlite} <br/> Mobile Development {Ionic, Kotlin} <br/> Embedded Systems  {C, Arduino, TinyCircuits} <br/> Object Oriented Programming {C++, Java, Python} </p>
 
 ### <p align="center"><b>Github Commits</b></p>
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SageSG&theme=black-ice&hide_border=true)](https://git.io/streak-stats) -->
-<p align="right">
+<p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=SageSG&theme=black-ice&hide_border=true" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SageSG&show_icons=true&hide_border=true&theme=dark&count_private=true&hide=stars,issues" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SageSG&hide_border=true&layout=compact&langs_count=10&theme=dark" />
 </p>
-<p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=SageSG&theme=black-ice&hide_border=true" />
-</p>
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SageSG&hide_border=true&layout=compact&langs_count=10&theme=dark) -->
 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SageSG&hide_border=true&layout=compact&langs_count=10&theme=dark) -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SageSG&theme=black-ice&hide_border=true)](https://git.io/streak-stats) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SageSG&show_icons=true&hide_border=true&theme=dark&count_private=true&hide=stars,issues) -->
 
 
