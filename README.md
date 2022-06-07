@@ -25,13 +25,12 @@
 
 
 ### Reach Me
-[![telegram](./telegram.png)][1]
-[![whatsapp](./whatsapp.png)][2]
-[![linkedin](./linkedin.png)][3]
-[![discord](./discord.png)][4]
+Telegram  |  Whatsapp | Linkedin | Discord
+:---:|:---:|:---:|:---:
+[![telegram](./telegram.png)][1]  |  [![whatsapp](./whatsapp.png)][2] | [![linkedin](./linkedin.png)][3] | [![discord](./discord.png)][4]
 
 [1]: https://t.me/henryLOL
-[2]: https://api.whatsapp.com/send?phone=+6596876870
+[2]: https://api.whatsapp.com/send?phone=6596876870
 [3]: https://www.linkedin.com/in/yiphl/
 [4]: https://discordapp.com/users/325171852202868747/
 
