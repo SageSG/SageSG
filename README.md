@@ -1,6 +1,6 @@
 
 ## <p> Nice to meet you, I'm Henry 👋 </p> <p align="center"> <img align="center" width="40%" src="./coder.jpg"> </p> <p align="right">  I'm a Fullstack Developer 🧑‍💻</p>
-
+<p align="center"> <img align="center" width="80%" src="./portfolio.jpg"> </p>
 ## <p align="center"> <b>✨ [<i>My Portfolio</i>](https://henryyip.netlify.app) ✨</b> </p>
 <!-- ### <p align="center"> ~ Motto: Always eager to learn ~ </p> -->
 ##### <p align="center"> #MachineLearning #FullStackEngineer #DataVisualisation </p>
