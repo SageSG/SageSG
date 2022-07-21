@@ -6,7 +6,7 @@
 
 #### <p> Currently: Studying | Part-Time | Looking for 1 year internship (Jan-Dec 2023) <br/><br/> Location: Singapore <br/><br/> Education: Singapore Institute of Technology <br/> Bachelor of Engineering with Honours in ICT (Software Engineering) </p>
 
-Drop me a mail: [mailstohenry@gmail.com](mailto:mailstohenry@gmail.com)
+#### E-mail: [mailstohenry@gmail.com](mailto:mailstohenry@gmail.com)
 
 <p align="center"><img src="./interesttable.png"></p>
 <!-- | | Interests  |
