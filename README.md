@@ -4,7 +4,7 @@
 <!-- ### <p align="center"> ~ Motto: Always eager to learn ~ </p> -->
 ##### <p align="center"> #MachineLearning #FullStackEngineer #DataVisualisation </p>
 
-#### <p> Currently: Studying | Part-Time | Looking for 1 year internship (Jan-Dec 2023) <br/><br/> Location: Singapore <br/><br/> Education: Singapore Institute of Technology <br/> Bachelor of Engineering with Honours in ICT (Software Engineering) </p>
+#### <p> Currently: Studying <br/><br/> Location: Singapore <br/><br/> Education: Singapore Institute of Technology <br/> Bachelor of Engineering with Honours in ICT (Software Engineering) </p>
 
 #### E-mail: [mailstohenry@gmail.com](mailto:mailstohenry@gmail.com)
 
