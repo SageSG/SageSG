@@ -11,13 +11,14 @@
 <p align="center"><img src="./interesttable.png"></p>
 <!-- | | Interests  |
 | --- | --- |
+| 0 | Web Development |
 | 1 | Machine Learning |
 | 2 | Data Visualisation |
 | 3 | Mobile Development |
 | 4 | Green Initiatives | -->
 
 ### <p align="center"><b> Experiences </b></p>
-#### <p align="center"> Automation Scripts {Web Scrapping, VBA} <br/> Web Development {PHP, JS, HTML, CSS} <br/> Framework {Vue, Angular, React, Flask} <br/> Database Management {MySQL, Postgres, MariaDB, SQLlite} <br/> Mobile Development {Ionic, Kotlin} <br/> Embedded Systems  {C, Arduino, TinyCircuits} <br/> Object Oriented Programming {C++, Java, Python} </p>
+#### <p align="center"> Automation Scripts {Web Scrapping, VBA} <br/> Web Development {PHP, JS, HTML, CSS, .NET} <br/> Framework {Vue, Angular, React, NodeJS, Flask} <br/> Database Management {Oracle, MySQL, Postgres, MariaDB, SQLlite} <br/> Mobile Development {Ionic, Kotlin} <br/> Embedded Systems  {C, Arduino, TinyCircuits} <br/> Object Oriented Programming {C++, Java, Python} </p>
 
 ### <p align="center"><b>Github Commits</b></p>
 <p align="center">
